@@ -16,6 +16,12 @@
     <mouse-shortcut keystroke="button5" />
     <mouse-shortcut keystroke="control button143" />
   </action>
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="alt z" />
+  </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="alt x" />
+  </action>
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f9" />
     <keyboard-shortcut first-keystroke="f5" />
