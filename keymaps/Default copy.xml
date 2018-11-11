@@ -19,6 +19,7 @@
     <keyboard-shortcut first-keystroke="tab" />
     <keyboard-shortcut first-keystroke="shift alt right" />
   </action>
+  <action id="EditorPasteFromX11" />
   <action id="EditorSelectWord" />
   <action id="EditorUnSelectWord" />
   <action id="EditorUnindentSelection">
@@ -29,6 +30,11 @@
     <mouse-shortcut keystroke="button5" />
     <mouse-shortcut keystroke="control button143" />
     <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+    <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="button2" />
   </action>
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
