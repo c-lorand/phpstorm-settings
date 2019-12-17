@@ -1,15 +1,16 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="mercedes-vins" type="PLAIN_TEXT" />
-      <mapping pattern="7f10d6404d34cbb6ec86b829e0a3023bb5804fd2" type="PLAIN_TEXT" />
+      <mapping pattern="3383fa1b1efead77b3351890f0546f8f890dc2ed" type="PLAIN_TEXT" />
       <mapping pattern="requirements" type="PLAIN_TEXT" />
-      <mapping pattern="0cc3cf2e2b11e7fa8669611e5cfd879f1e46cb29" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="bbf4b19dd4bfc4fadacacb8bbe9bbc95b60f726d" type="PLAIN_TEXT" />
-      <mapping pattern="3383fa1b1efead77b3351890f0546f8f890dc2ed" type="PLAIN_TEXT" />
       <mapping pattern="bmw-vins" type="PLAIN_TEXT" />
       <mapping pattern="0cc3cf2e2b11e7fa8669611e5cfd879f1e46cb29" type="PLAIN_TEXT" />
+      <mapping pattern="7f10d6404d34cbb6ec86b829e0a3023bb5804fd2" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
