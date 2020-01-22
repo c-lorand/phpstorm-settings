@@ -1,17 +1,13 @@
 <application>
   <component name="XDebuggerSettings">
     <data-views>
+      <sort-values>true</sort-values>
       <option name="valueLookupDelay" value="150" />
     </data-views>
-    <general />
+    <general>
+      <confirm-breakpoint-removal>true</confirm-breakpoint-removal>
+    </general>
     <debuggers>
-      <debugger id="dotnet_debugger">
-        <configuration>
-          <option name="remappedSourceLocationsMap">
-            <map />
-          </option>
-        </configuration>
-      </debugger>
       <debugger id="javascript">
         <configuration>
           <custom-object-presentation />
