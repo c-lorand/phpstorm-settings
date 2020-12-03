@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
-    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="customScope" value="Project 'Crawler.Domain'" />
+    <option name="defaultScopeName" value="Project 'Crawler.Domain'" />
+    <option name="SEARCH_SCOPE" value="Project 'Crawler.Domain'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
