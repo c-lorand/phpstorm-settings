@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Project 'Crawler.Domain'" />
     <option name="defaultScopeName" value="Project 'Crawler.Domain'" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'Crawler.Domain'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
