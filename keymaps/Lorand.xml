@@ -7,6 +7,7 @@
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
+  <action id="CopyElement" />
   <action id="Diff.NextChange" />
   <action id="Diff.PrevChange" />
   <action id="EditorUnSelectWord" />
@@ -16,10 +17,15 @@
     <keyboard-shortcut first-keystroke="alt right" />
   </action>
   <action id="GotoTest" />
+  <action id="Graph.ApplyCurrentLayout" />
   <action id="NextTab" />
   <action id="PreviousTab" />
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="f9" />
+    <keyboard-shortcut first-keystroke="f5" />
   </action>
   <action id="ServiceView.ShowServices" />
   <action id="SmartUnSelect" />
